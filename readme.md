@@ -1,7 +1,7 @@
 # Sintaxis y Semántica de los Lenguajes
 
 ## Curso
-Curso: #K2151
+Curso: K2151
 
 ## Año de cursada
 Año: 2025  
