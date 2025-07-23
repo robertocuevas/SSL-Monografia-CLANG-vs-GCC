@@ -1,16 +1,14 @@
-# Sintaxis y Semántica de los Lenguajes
+# Sintaxis y Semántica de los Lenguajes - Repositorio para Monografía
 
-## Curso
-K2151
-
-## Año de cursada
-2025  
+## Comparación CLANG VS GCC 
+Julio 2025
 
 ## Legajo
 597234
 
-## Apellido
-Cuevas
+## Docentes
+Ing. Jose Maria Sola
+Ing. Miguel Carboni
 
-## Nombre
-Roberto
+## Alumno
+Roberto Cuevas
