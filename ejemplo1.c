@@ -5,3 +5,4 @@ int main() {
         printf("x is non-zero\n");
     }
     return 0;
+}
