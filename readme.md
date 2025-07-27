@@ -4,7 +4,7 @@
 28 Julio 2025
 
 ## Docentes
-Ing. Jose Maria Sola
+Ing. Jose Maria Sola  
 Ing. Miguel Carboni
 
 ## Alumno
