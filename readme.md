@@ -1,10 +1,10 @@
 # Sintaxis y Semántica de los Lenguajes - Repositorio para Monografía
 
 ## Comparación CLANG VS GCC 
-Julio 2025
+28 Julio 2025
 
 ## Docentes
-Ing. Jose Maria Sola;
+Ing. Jose Maria Sola
 Ing. Miguel Carboni
 
 ## Alumno
